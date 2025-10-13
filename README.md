@@ -2,8 +2,15 @@
 # ChillBot - Your Sukh Dukh Ka Sathi 🤖💙  
 
 ## 🚀 About ChillBot  
-ChillBot is an **AI-powered mental health support chatbot** designed to help students manage stress, stay motivated, and build healthy habits.  
+ChillBot is an **AI-powered mental health support chatbot** designed to help students manage stress, stay motivated, and build healthy habits. 
 
+---
+
+## Demo Video 
+
+https://github.com/user-attachments/assets/7b41e019-6108-4dd6-b637-0d2998afeb58
+
+---
 ### 🔹 What Can ChillBot Do?
 - ✅ Answer Queries & Provide Emotional Support 🤖💬
 - ✅ Help in Studies – Answers academic questions & suggests related content 📚
